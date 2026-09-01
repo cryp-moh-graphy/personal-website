@@ -1,4 +1,4 @@
-[![Demo](./demo.gif)](./compressed-and-trimmed_cryp-moh-graphy_mohammed-personal-portfolio.mp4)
+![Portfolio Demo](./compressed-and-trimmed_cryp-moh-graphy_mohammed-personal-portfolio.gif)
 
 <br>
 
