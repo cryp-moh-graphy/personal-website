@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mid-compressed-and-trimmed_cryp-moh-graphy_mohammed-personal-portfolio.gif" width="100%">
+  <img src="./high-quality_cryp-moh-graphy_mohammed-personal-portfolio-demo.gif" width="100%">
 </p>
 
 <br>
