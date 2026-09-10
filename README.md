@@ -1,10 +1,12 @@
 This is Mohammed's [Personal Website / Portfolio](#personal-website--portfolio) — **iM-Engr**
 
+**iM-Engr** is a personal portfolio built around a dark, editorial-style interface with high-contrast serif typography and minimal UI. It also includes a deterministic, client-side conversational retrieval system that runs without AI or external services.
+
+Learn more about the [**Zero-Dependency Client-Side NLP & Conversational Assistant**](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Zero-Dependency%20Client-Side%20NLP%20%26%20Conversational%20Assistant), a project within [**AI & Data Science (NLP, ML, Analytics, Data Engineering)**](https://github.com/cryp-moh-graphy/ai-ds-portfolio/blob/main/README.md) and the deterministic, client-side conversational retrieval system included in **iM-Engr**.
+
 <p align="center">
   <img src="./iM-Engr_GraphicDesign_GitHub.jpg" width="100%">
 </p>
-
-**iM-Engr** is a personal portfolio built around a dark, editorial-style interface with high-contrast serif typography and minimal UI. It also includes a deterministic, client-side conversational retrieval system that runs without AI or external services.
 
 The design uses large italic serif typography for the primary messaging, with simpler sans-serif text for supporting information. The landing page also incorporates quotes from professors and industry leads through glassmorphic cards, while the academic section provides additional context around coursework through percentile rankings, uncurved scores, and class-average comparisons.
 
