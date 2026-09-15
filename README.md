@@ -2,7 +2,7 @@
 
 **iM-Engr** is a personal portfolio built around a dark, editorial-style interface with high-contrast serif typography and minimal UI. It also includes a deterministic, client-side conversational retrieval system that runs without AI or external services.
 
-Learn more about the [**Zero-Dependency Client-Side NLP & Conversational Assistant**](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Zero-Dependency%20Client-Side%20NLP%20%26%20Conversational%20Assistant), a project within [**AI & Data Science (NLP, ML, Analytics, Data Engineering)**](https://github.com/cryp-moh-graphy/ai-ds-portfolio/blob/main/README.md) and the deterministic, client-side conversational retrieval system included in **iM-Engr**.
+<sub>Learn more about the [**Zero-Dependency Client-Side NLP & Conversational Assistant**](https://github.com/cryp-moh-graphy/ai-ds-portfolio/tree/main/Zero-Dependency%20Client-Side%20NLP%20%26%20Conversational%20Assistant), a project within [**AI & Data Science (NLP, ML, Analytics, Data Engineering)**](https://github.com/cryp-moh-graphy/ai-ds-portfolio/blob/main/README.md) and the deterministic, client-side conversational retrieval system included in **iM-Engr**.</sub>
 
 <p align="center">
   <a href="https://im-engr474-sep26sys.netlify.app">
