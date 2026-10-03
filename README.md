@@ -1,4 +1,4 @@
-## [**LIVE SITE - Mohammed's Personal Website / Portfolio – iM-Engr**](https://im-engr474-sep26sys.netlify.app)
+## [**LIVE SITE: Mohammed's Personal Website / Portfolio – iM-Engr**](https://im-engr474-sep26sys.netlify.app)
 
 **iM-Engr** is a personal portfolio built around a dark, editorial-style interface with high-contrast serif typography and minimal UI. It also **includes a deterministic, client-side conversational retrieval system** that runs without AI or external services.
 
